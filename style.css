@@ -1,0 +1,15 @@
+
+H1{
+    color: red !important;
+    background-color: yellow;
+    font-size: 200px;
+}
+
+.subtitulo {
+    color: rgb(0, 255, 128);
+}
+
+.titulo{
+    color: purple;
+    background-color: orangered;
+}
